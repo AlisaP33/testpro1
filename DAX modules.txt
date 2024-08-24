@@ -1,0 +1,9 @@
+https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/9-summary
+
+https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/9-summary
+
+https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/
+
+https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/
+
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures
